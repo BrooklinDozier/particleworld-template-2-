@@ -1,0 +1,22 @@
+html, body {
+  background-color: rgb(159, 196,236);
+  margin: 0;
+  padding: 0;
+}
+h1{
+  color:rgb(0, 0, 0);
+  font-family:Helvetica, Arial, sans-serif;
+  font-size: 50px;
+  font-style: italic;
+  font-weight: bold;
+  text-align: center;
+}
+p{
+  color: rgb(0, 0, 0);
+  font-family: 'Young Serif', serif;
+  font-size: 30px;
+}
+canvas {
+  display: block;
+  margin: auto;
+}
